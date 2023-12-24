@@ -7,6 +7,9 @@
     <groupId>org.enset</groupId>
     <artifactId>exam_distributed_systems</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
