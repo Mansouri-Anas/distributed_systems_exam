@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ef57af-49f4-4343-ba0f-363f03a06c11" name="Changes" comment="eureka discovery">
-      <change afterPath="$PROJECT_DIR$/eureka_discovery/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_discovery/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_discovery/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_discovery/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_discovery/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_discovery/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_discovery/src/main/java/com/enset/eureka_discovery/EurekaDiscoveryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_discovery/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka_discovery/src/test/java/com/enset/eureka_discovery/EurekaDiscoveryApplicationTests.java" afterDir="false" />
+    <list default="true" id="84ef57af-49f4-4343-ba0f-363f03a06c11" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_discovery/src/main/java/com/enset/eureka_discovery/EurekaDiscoveryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_discovery/src/main/java/com/enset/eureka_discovery/EurekaDiscoveryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_discovery/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_discovery/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +62,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "E:/ENSET/S5/AOS Stream Processing/exam_distributed_systems/test/src/main/resources",
+    "last_opened_file_path": "E:/ENSET/S5/AOS Stream Processing/exam_distributed_systems/gateway_service/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,10 +77,31 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ENSET\S5\AOS Stream Processing\exam_distributed_systems\gateway_service\src\main\resources" />
       <recent name="E:\ENSET\S5\AOS Stream Processing\exam_distributed_systems\test\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaDiscoveryApplication">
+    <configuration name="EurekaDiscoveryApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka_discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enset.eurekadiscovery.EurekaDiscoveryApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enset.eurekadiscovery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="eureka_discovery" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.enset.eureka_discovery.EurekaDiscoveryApplication" />
@@ -93,6 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GatewayServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enset.gateway_service.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enset.gateway_service.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaDiscoveryApplication (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -103,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703450960829</updated>
       <workItem from="1703450963086" duration="976000" />
-      <workItem from="1703453824269" duration="1839000" />
+      <workItem from="1703453824269" duration="3938000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1703451139394</created>
@@ -133,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703455239120</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1703455800998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703455800998</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,9 +195,11 @@
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/eureka_discovery" />
+      <path value="$PROJECT_DIR$/gateway_service" />
     </ignored-roots>
     <MESSAGE value="first commit" />
     <MESSAGE value="eureka discovery" />
-    <option name="LAST_COMMIT_MESSAGE" value="eureka discovery" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
